@@ -21,7 +21,7 @@ function About() {
           />
           <div className="about-me-greetings">
             <span className="about-me-hi">Hi, I am </span>
-            <span className="about-me-name">Emilian Kasemi</span>
+            <span className="about-me-name">Rameez Raja</span>
 
             <img
               className="about-me-vector-image"
@@ -32,8 +32,7 @@ function About() {
         </div>
         <div className="about-me-description">
           <p>
-            Hi, I am Emilian Kasemi. I am a Software Engineer.I am from Albania.
-            Front-End Engineer / Creative Developer / Game Developer Seeking to
+            Hi, I am Rameez Raja a stor am a seasoned Business Analyst/Data Analyst with over 10 years of comprehensive IT and digital transformation experience. Throughout my career, I have been recognized for driving strategic initiatives that enhance operational efficiency and enable data-driven decision-making across various domains including IT, finance, operations, onboarding, and HR.I am Emilian Creative Developer / Game Developer Seeking to
             take the next step in my career, I am constantly updating my
             expertise, from Web Development to Game Design. Currently, I am
             working as a Front-End Engineer at OMRT. OMRT builds a Deep Tech
