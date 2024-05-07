@@ -4,7 +4,7 @@ import "./IntroCard.css";
 const IntroCard = () => {
   return (
     <p className="intro-text">
-      Hi, I am Rameez Raja👋 <br /> Storyteller, and Analyst from London.
+      Hi, I am Rameez Raja👋 <br /> Storyteller & Analyst from London.
     </p>
   );
 };
