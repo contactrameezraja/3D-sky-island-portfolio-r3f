@@ -32,13 +32,13 @@ function About() {
         </div>
         <div className="about-me-description">
           <p>
-            Hi, I am Rameez Raja a stor am a seasoned Business Analyst/Data Analyst with over 10 years of comprehensive IT and digital transformation experience. Throughout my career, I have been recognized for driving strategic initiatives that enhance operational efficiency and enable data-driven decision-making across various domains including IT, finance, operations, onboarding, and HR.I am Emilian Creative Developer / Game Developer Seeking to
+            Hi, I am Rameez Raja a storyteller / Analyst seeking to
             take the next step in my career, I am constantly updating my
-            expertise, from Web Development to Game Design. Currently, I am
-            working as a Front-End Engineer at OMRT. OMRT builds a Deep Tech
-            design platform for real estate development. The product of OMRT is
-            a collection of architectural design, physics, finance, and material
-            modules that are connected within one digital brain.
+            expertise, from Web Development to Programming. Currently, I am
+            volunteering as a data and insights analyst at We and AI a non-profit
+            public sector organizaation that works with charities across the UK. I have  
+            10 years of experience and have travelled around the world from China, Americas, 
+            Middle East and Europe. 
           </p>
         </div>
 
